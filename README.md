@@ -53,7 +53,7 @@ raw_data = {
 }
 
 # Parse it, using sdRDM
-dataset, lib = DataModel.parse(data=model, root_name="HostModel")
+dataset, lib = DataModel.parse(data=raw_data, root_name="HostModel")
 
 # Define a template on how to map data
 template = {
