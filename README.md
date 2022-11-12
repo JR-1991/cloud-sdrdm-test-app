@@ -87,11 +87,11 @@ print(result)
 
 ```json
 {
-    'id': 'calculator0',
-    'number': 20.0,
-    'exponent': 10,
-    'results': [
-        {'id': 'result0', 'number': 20.0}
+    "id": "calculator0",
+    "number": 20.0,
+    "exponent": 10,
+    "results": [
+        {"id": "result0", "number": 20.0}
     ]
 }
 ```
