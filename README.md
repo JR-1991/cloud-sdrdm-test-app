@@ -90,9 +90,12 @@ print(result)
     "id": "calculator0",
     "number": 20.0,
     "exponent": 10,
-    "results": [
-        {"id": "result0", "number": 10240000000000.0}
-    ]
+    "results": [{"id": "result0", "number": 10240000000000.0}],
+    "__source__": {
+        "root": "Calculator",
+        "repo": "https://github.com/JR-1991/application.git",
+        "commit": "3ef1509173fffe3f44d31bf1754274d0a270bd0b",
+        "url": "https://github.com/JR-1991/application/tree/3ef1509173fffe3f44d31bf1754274d0a270bd0b"}
 }
 ```
 
